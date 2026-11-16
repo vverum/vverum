@@ -20,7 +20,7 @@ Beyond game development, I also work with C++, embedded systems, microcontroller
 | [Unity_EmptyDirCleaner](https://github.com/vverum/Unity_EmptyDirCleaner) | Finds and removes empty directories in Unity projects |
 | [RefinedGitSettingsForUnity](https://github.com/vverum/RefinedGitSettingsForUnity) | Git settings template for Unity projects |
 
-### 🐧 Linux & Utilities
+### Linux & Utilities
 
 | Project | Description |
 |---|---|
